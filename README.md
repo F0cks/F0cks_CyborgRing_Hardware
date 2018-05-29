@@ -1,25 +1,14 @@
 # F0cks_CyborgRing_Hardware
 
-I have created my own hardware and software of **Zach Fredin** [zakqwy](https://github.com/zakqwy) Cyborg ring. This code can only be used with [my Cyborg ring hardware](https://github.com/F0cks/F0cks_CyborgRing_Hardware). <br />
+I have created my own hardware and software of **Zach Fredin** [zakqwy](https://github.com/zakqwy) Cyborg ring. You can use [my Cyborg ring software](https://github.com/F0cks/F0cks_CyborgRing_Hardware) for this hardware. <br />
 You can find more information on my blog : [blog.f0cks.net/projects/Cyborg-ring](https://blog.f0cks.net/projects/Cyborg-ring/).
 
 
-### Prerequisites
+### Description
 
-* You will need **avrdude** to flash the ring.
-* A programmer like the **USBasp** (with some modifications to adapt the connector).
-* **Arduino IDE** if you want to modify and rebuild the code. 
-
-### Programming
-
-You need to change **fuses** to switch internal oscillator from 8MHz to 6.4MHz :
-```
-avrdude -c usbasp  -p t85 -U flash:w:cyborg_ring_software.ino.hex -B 400
-```
-You can use the provided .hex file or create your own by rebuilding **cyborg_ring_software.ino** with **Arduino IDE**.
-```
-avrdude -c usbasp  -p t85 -U lfuse:w:0x43:m -U hfuse:w:0xdf:m -U efuse:w:0xff:m   -B 400
-```
+* This hardware has been created with **Eagle Version 7.7.0**.
+* All GERBER files are included in **F0cks_CyborgRing_Gerber.zip**.
+* You can create directly your board using my **OSHPark Project**: <br /> <a href="https://oshpark.com/shared_projects/YXsu5wAr"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
 ## Authors
 
