@@ -1545,35 +1545,35 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <elements>
 <element name="U1" library="cyborg_ring" package="1/4-QFN20" value="ATTINYX5V-LEFT" x="11.461434375" y="2.524440625" rot="R90"/>
 <element name="U2" library="cyborg_ring" package="1/4-QFN20" value="ATTINYX5V-RIGHT" x="32.565059375" y="2.491703125" rot="R90"/>
-<element name="RCON1" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="8.251584375" y="2.723490625" rot="R90"/>
-<element name="RCON2" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="35.774909375" y="2.691703125" rot="R90"/>
-<element name="RCON7" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="3.163459375" y="18.122246875" rot="R75"/>
-<element name="RCON8" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="40.85278125" y="18.213915625" rot="R285"/>
-<element name="RCON11" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="19.719946875" y="18.18981875" rot="R285"/>
-<element name="RCON12" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="24.399846875" y="18.2957625" rot="R75"/>
-<element name="LED_CON1" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="18.68189375" y="19.718896875" rot="R224.5"/>
-<element name="LED_CON2" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="25.429753125" y="19.79301875" rot="R315.5"/>
-<element name="LED_CON3" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="16.93341875" y="21.15829375" rot="R237.5"/>
-<element name="LED_CON4" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="27.22145" y="21.161225" rot="R302.5"/>
-<element name="LED_CON5" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="14.862228125" y="22.1464125" rot="R250.5"/>
-<element name="LED_CON6" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="29.255946875" y="22.157284375" rot="R289.5"/>
-<element name="LED_CON7" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="12.612815625" y="22.66415625" rot="R263.5"/>
-<element name="LED_CON8" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="31.499478125" y="22.655090625" rot="R276.5"/>
-<element name="LED_CON9" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="10.328975" y="22.67028125" rot="R276.5"/>
-<element name="LED_CON10" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="33.720875" y="22.6651" rot="R263.5"/>
-<element name="LED_CON11" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="8.1606375" y="22.1464125" rot="R289.5"/>
-<element name="LED_CON12" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="35.938546875" y="22.13581875" rot="R250.5"/>
-<element name="LED_CON13" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="6.075034375" y="21.194240625" rot="R302.5"/>
-<element name="LED_CON14" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="38.026859375" y="21.161503125" rot="R237.5"/>
-<element name="LED_CON15" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="4.214228125" y="19.78765625" rot="R315.5"/>
-<element name="LED_CON16" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="39.86091875" y="19.748859375" rot="R224.5"/>
+<element name="R1" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="8.251584375" y="2.723490625" rot="R90"/>
+<element name="R2" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="35.774909375" y="2.691703125" rot="R90"/>
+<element name="R9" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="3.163459375" y="18.122246875" rot="R75"/>
+<element name="R10" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="40.85278125" y="18.213915625" rot="R285"/>
+<element name="R7" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="19.719946875" y="18.18981875" rot="R285"/>
+<element name="R8" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="24.399846875" y="18.2957625" rot="R75"/>
+<element name="R13" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="18.68189375" y="19.718896875" rot="R224.5"/>
+<element name="R14" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="25.429753125" y="19.79301875" rot="R315.5"/>
+<element name="R15" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="16.93341875" y="21.15829375" rot="R237.5"/>
+<element name="R16" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="27.22145" y="21.161225" rot="R302.5"/>
+<element name="R17" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="14.862228125" y="22.1464125" rot="R250.5"/>
+<element name="R18" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="29.255946875" y="22.157284375" rot="R289.5"/>
+<element name="R19" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="12.612815625" y="22.66415625" rot="R263.5"/>
+<element name="R20" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="31.499478125" y="22.655090625" rot="R276.5"/>
+<element name="R21" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="10.328975" y="22.67028125" rot="R276.5"/>
+<element name="R22" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="33.720875" y="22.6651" rot="R263.5"/>
+<element name="R23" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="8.1606375" y="22.1464125" rot="R289.5"/>
+<element name="R24" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="35.938546875" y="22.13581875" rot="R250.5"/>
+<element name="R25" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="6.075034375" y="21.194240625" rot="R302.5"/>
+<element name="R26" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="38.026859375" y="21.161503125" rot="R237.5"/>
+<element name="R27" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="4.214228125" y="19.78765625" rot="R315.5"/>
+<element name="R28" library="cyborg_ring" package="R0508-1/2" value="R0508-1/2" x="39.86091875" y="19.748859375" rot="R224.5"/>
 <element name="U$1" library="cyborg_ring" package="BAT+" value="BAT+" x="4.273765625" y="3.424440625"/>
 <element name="U$2" library="cyborg_ring" package="BAT+" value="BAT+" x="25.433825" y="3.40305"/>
 <element name="U$3" library="cyborg_ring" package="BAT-" value="BAT-" x="39.75368125" y="3.39201875"/>
 <element name="U$4" library="cyborg_ring" package="BAT-" value="BAT-" x="18.650690625" y="3.424121875"/>
 <element name="SW1" library="cyborg_ring" package="BTN_CK_KSS" value="" x="32.565059375" y="2.256703125" rot="MR0"/>
-<element name="RCON13" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="14.670965625" y="2.724440625" rot="R90"/>
-<element name="RCON14" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="29.355209375" y="2.69170625" rot="R90"/>
+<element name="R3" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="14.670965625" y="2.724440625" rot="R90"/>
+<element name="R4" library="cyborg_ring" package="R0805-1/2" value="R0805-1/2TEST" x="29.355209375" y="2.69170625" rot="R90"/>
 <element name="VCC" library="testpad" package="TP15R" value="TPTP15R" x="5.136021875" y="2.712584375" rot="MR0">
 <attribute name="TP_SIGNAL_NAME" value="" x="5.136021875" y="2.712584375" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
@@ -1596,10 +1596,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="TP_SIGNAL_NAME" value="" x="13.999846875" y="1.726565625" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C1" library="rcl" package="C0201" value="100n" x="11.325225" y="1.72053125"/>
-<element name="RCON15" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="3.464859375" y="7.077209375" rot="R105"/>
-<element name="RCON16" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="40.625275" y="7.0619375" rot="R75"/>
-<element name="RCON5" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="19.462034375" y="7.020246875" rot="R255"/>
-<element name="RCON6" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="24.617534375" y="7.04916875" rot="R105"/>
+<element name="R11" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="3.464859375" y="7.077209375" rot="R105"/>
+<element name="R12" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="40.625275" y="7.0619375" rot="R75"/>
+<element name="R5" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="19.462034375" y="7.020246875" rot="R255"/>
+<element name="R6" library="cyborg_ring" package="R0905-1/2BIS" value="R0805-1/2TEST2" x="24.617534375" y="7.04916875" rot="R105"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -1628,7 +1628,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <vertex x="13.716" y="0.508"/>
 <vertex x="11.43" y="0.508"/>
 </polygon>
-<contactref element="RCON11" pad="1"/>
+<contactref element="R7" pad="1"/>
 <via x="19.721828125" y="18.190209375" extent="1-16" drill="0.254"/>
 <wire x1="19.721828125" y1="18.190209375" x2="19.79145625" y2="18.261328125" width="0.1524" layer="1"/>
 <wire x1="19.79145625" y1="18.261328125" x2="19.719946875" y2="18.18981875" width="0.1524" layer="1" curve="90"/>
@@ -1638,8 +1638,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U$1" pad="P$1"/>
 <contactref element="VCC" pad="TP"/>
 <contactref element="C1" pad="1"/>
-<contactref element="RCON7" pad="1"/>
-<contactref element="RCON15" pad="1"/>
+<contactref element="R9" pad="1"/>
+<contactref element="R11" pad="1"/>
 <polygon width="0.1524" layer="1" thermals="no">
 <vertex x="0.635" y="18.796"/>
 <vertex x="4.953" y="17.653"/>
@@ -1660,10 +1660,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="R0">
 <contactref element="U2" pad="4"/>
-<contactref element="LED_CON2" pad="P$1"/>
-<contactref element="LED_CON4" pad="P$1"/>
-<contactref element="LED_CON14" pad="P$1"/>
-<contactref element="LED_CON16" pad="P$1"/>
+<contactref element="R14" pad="P$1"/>
+<contactref element="R16" pad="P$1"/>
+<contactref element="R26" pad="P$1"/>
+<contactref element="R28" pad="P$1"/>
 <polygon width="0.1524" layer="1" rank="5">
 <vertex x="23.012403125" y="18.81378125"/>
 <vertex x="26.695403125" y="17.79778125"/>
@@ -1702,10 +1702,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="R1">
 <contactref element="U2" pad="1"/>
-<contactref element="LED_CON6" pad="P$1"/>
-<contactref element="LED_CON8" pad="P$1"/>
-<contactref element="LED_CON10" pad="P$1"/>
-<contactref element="LED_CON12" pad="P$1"/>
+<contactref element="R18" pad="P$1"/>
+<contactref element="R20" pad="P$1"/>
+<contactref element="R22" pad="P$1"/>
+<contactref element="R24" pad="P$1"/>
 <polygon width="0.1524" layer="1">
 <vertex x="28.600403125" y="23.89378125"/>
 <vertex x="29.870403125" y="20.46478125"/>
@@ -1724,7 +1724,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="30.271721875" y1="3.691890625" x2="30.271721875" y2="3.6931625" width="0.1524" layer="16"/>
 </signal>
 <signal name="RST">
-<contactref element="RCON1" pad="1"/>
+<contactref element="R1" pad="1"/>
 <contactref element="RST" pad="TP"/>
 <via x="7.672703125" y="2.717803125" extent="1-16" drill="0.254"/>
 <wire x1="8.251584375" y1="2.723490625" x2="7.8257375" y2="2.723490625" width="0.1524" layer="1"/>
@@ -1734,17 +1734,17 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="RST1">
 <contactref element="U2" pad="5"/>
-<contactref element="RCON2" pad="1"/>
+<contactref element="R2" pad="1"/>
 <wire x1="33.565059375" y1="2.433203125" x2="35.774909375" y2="2.433203125" width="0.1524" layer="1"/>
 <wire x1="35.774909375" y1="2.433203125" x2="35.774909375" y2="2.691703125" width="0.1524" layer="1"/>
 </signal>
 <signal name="MOSI/L1">
 <contactref element="U1" pad="5"/>
 <contactref element="MOSI" pad="TP"/>
-<contactref element="LED_CON7" pad="P$1"/>
-<contactref element="LED_CON5" pad="P$1"/>
-<contactref element="LED_CON3" pad="P$1"/>
-<contactref element="LED_CON1" pad="P$1"/>
+<contactref element="R19" pad="P$1"/>
+<contactref element="R17" pad="P$1"/>
+<contactref element="R15" pad="P$1"/>
+<contactref element="R13" pad="P$1"/>
 <polygon width="0.1524" layer="1" rank="5">
 <vertex x="12.446" y="20.828"/>
 <vertex x="12.7" y="24.638"/>
@@ -1778,12 +1778,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <vertex x="43.078403125" y="0.14478125"/>
 </polygon>
 <contactref element="SW1" pad="P$1"/>
-<contactref element="RCON12" pad="1"/>
+<contactref element="R8" pad="1"/>
 <via x="24.4005125" y="18.295621875" extent="1-16" drill="0.254"/>
 <wire x1="24.399846875" y1="18.2957625" x2="24.4005125" y2="18.295621875" width="0.1524" layer="1"/>
 </signal>
 <signal name="SWITCH1">
-<contactref element="RCON14" pad="1"/>
+<contactref element="R4" pad="1"/>
 <contactref element="SW1" pad="P$2"/>
 <via x="29.362403125" y="2.68478125" extent="1-16" drill="0.254"/>
 <wire x1="29.355209375" y1="2.69170625" x2="29.362403125" y2="2.69170625" width="0.1524" layer="1"/>
@@ -1794,10 +1794,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <signal name="SCK/L0">
 <contactref element="U1" pad="2"/>
 <contactref element="SCK" pad="TP"/>
-<contactref element="LED_CON15" pad="P$1"/>
-<contactref element="LED_CON13" pad="P$1"/>
-<contactref element="LED_CON11" pad="P$1"/>
-<contactref element="LED_CON9" pad="P$1"/>
+<contactref element="R27" pad="P$1"/>
+<contactref element="R25" pad="P$1"/>
+<contactref element="R23" pad="P$1"/>
+<contactref element="R21" pad="P$1"/>
 <polygon width="0.1524" layer="1" rank="4">
 <vertex x="1.524" y="18.542"/>
 <vertex x="5.334" y="17.526"/>
@@ -1822,7 +1822,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="MISO/SW">
 <contactref element="U1" pad="4"/>
-<contactref element="RCON13" pad="1"/>
+<contactref element="R3" pad="1"/>
 <contactref element="MISO" pad="TP"/>
 <via x="15.3019125" y="2.711765625" extent="1-16" drill="0.254"/>
 <wire x1="14.670965625" y1="2.724440625" x2="15.3019125" y2="2.711765625" width="0.1524" layer="1"/>
@@ -1889,7 +1889,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <signal name="VCC/2">
 <contactref element="U$2" pad="P$1"/>
 <contactref element="U$3" pad="P$1"/>
-<contactref element="RCON6" pad="1"/>
+<contactref element="R6" pad="1"/>
 <polygon width="0.1524" layer="1" thermals="no" rank="6">
 <vertex x="37.236403125" y="-0.23621875"/>
 <vertex x="22.250403125" y="-0.23621875"/>
@@ -1906,7 +1906,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="24.43988125" y="6.866890625" extent="1-16" drill="0.254"/>
 </signal>
 <signal name="VCC/2&quot;">
-<contactref element="RCON5" pad="1"/>
+<contactref element="R5" pad="1"/>
 <polygon width="0.1524" layer="1" thermals="no">
 <vertex x="18.034" y="17.78"/>
 <vertex x="21.844" y="18.669"/>
@@ -1916,8 +1916,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="19.603721875" y="6.828790625" extent="1-16" drill="0.254"/>
 </signal>
 <signal name="VCC&quot;">
-<contactref element="RCON8" pad="1"/>
-<contactref element="RCON16" pad="1"/>
+<contactref element="R10" pad="1"/>
+<contactref element="R12" pad="1"/>
 <polygon width="0.1524" layer="1" thermals="no" rank="4">
 <vertex x="39.141403125" y="7.51078125"/>
 <vertex x="42.316403125" y="6.62178125"/>
