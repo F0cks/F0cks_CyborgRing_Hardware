@@ -9,6 +9,8 @@ You can find more information on my blog : [blog.f0cks.net/projects/Cyborg-ring]
 * This hardware has been created with **Eagle Version 7.7.0**.
 * All GERBER files are included in **F0cks_CyborgRing_Gerber.zip**.
 * You can create directly your board using my **OSHPark Project**: <br /> <a href="https://oshpark.com/shared_projects/YXsu5wAr"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+* I have added the **BOM** with component links from Digikey (and button cells from eBay).
+* You will probably need to edit the board to fit the ring to your finger ( diameter is around 17mm).
 
 ## Authors
 
